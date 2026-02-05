@@ -117,8 +117,8 @@ PRs welcome! Areas we'd love help with:
 
 ## Credits
 
-- **Pépère** (shAde) — Original concept
-- **Zayan** (Clément) — Implementation
+- **shAde**  — Original concept
+- **Clément** — Implementation
 
 ## License
 
