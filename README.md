@@ -27,7 +27,7 @@ openclaw skill install token-optimizer
 
 ```bash
 cd ~/.openclaw/workspace/skills/
-git clone https://github.com/YOUR_REPO/token-optimizer.git
+git clone https://github.com/D4kooo/Openclaw-Token-memory-optimizer/tree/main
 ```
 
 2. The skill will be automatically detected by OpenClaw.
